@@ -1,5 +1,9 @@
 # Project
 
+## Grade
+
+Achieved a High Distinction Grade for the project.
+
 ## Aims
 
 * Appreciate issues in user interface design
